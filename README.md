@@ -11,3 +11,5 @@ Binary Search Tree Projesi
 - 9, 7 ve 8 den büyük olduğu için 8 in sağına gelir
 - 4, 7,5 den küçük fakat 1 ve 3 den büyük olduğu için 3 ün sağına gelir
 - 2, 7,5 den küçük 1 den büyük fakat 3 den küçük olduğu için 3 ün soluna gelir.
+
+- patika profilim : https://app.patika.dev/khhy
